@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gymfi Rausgehen</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_register">Registrieren</string>
+    <string name="title_activity_main">Gymfi Rausgehen</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Benachrichtigungen</string>
+</resources>
